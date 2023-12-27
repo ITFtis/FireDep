@@ -1,0 +1,66 @@
+[
+  {
+    "StationNo": "20101",
+    "CityCode": "10005",
+    "TownCode": "1000513",
+    "Time": "2018-07-31T14:00:00",
+    "WaterHeight": 299.99,
+    "Status": 1
+  },
+  {
+    "StationNo": "20101",
+    "CityCode": "66",
+    "TownCode": "6601500",
+    "Time": "2018-07-31T14:00:00",
+    "WaterHeight": 299.99,
+    "Status": 1
+  },
+  {
+    "StationNo": "20101",
+    "CityCode": "66",
+    "TownCode": "6601100",
+    "Time": "2018-07-31T14:00:00",
+    "WaterHeight": 299.99,
+    "Status": 1
+  },
+  {
+    "StationNo": "20101",
+    "CityCode": "66",
+    "TownCode": "6602100",
+    "Time": "2018-07-31T14:00:00",
+    "WaterHeight": 299.99,
+    "Status": 1
+  },
+  {
+    "StationNo": "20101",
+    "CityCode": "66",
+    "TownCode": "6602200",
+    "Time": "2018-07-31T14:00:00",
+    "WaterHeight": 299.99,
+    "Status": 1
+  },
+  {
+    "StationNo": "30504",
+    "CityCode": "67",
+    "TownCode": "6702600",
+    "Time": "2018-07-31T07:00:00",
+    "WaterHeight": 143.04,
+    "Status": 1
+  },
+  {
+    "StationNo": "30504",
+    "CityCode": "67",
+    "TownCode": "6702500",
+    "Time": "2018-07-31T07:00:00",
+    "WaterHeight": 143.04,
+    "Status": 1
+  },
+  {
+    "StationNo": "30504",
+    "CityCode": "67",
+    "TownCode": "6702200",
+    "Time": "2018-07-31T07:00:00",
+    "WaterHeight": 143.04,
+    "Status": 1
+  }
+]

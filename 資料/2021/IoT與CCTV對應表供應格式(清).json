@@ -1,0 +1,22 @@
+/*
+*  CCTV 部分最多4個
+*/
+[
+ {
+   "IoTStationID":"TNWG041" ,
+   "IoTStationName": "北門農會分會站(淹水站124)",
+   "CCTV":
+	[
+		{
+			"CameraID": "V1700001",
+			"CameraTwName": "喜樹抽水站",
+			"isPolice": false
+		},
+		{
+			"CameraID": "TN0000",
+			"CameraTwName": "臺南市政府警察局",
+			"isPolice": true
+		},
+	]	
+ }
+]
